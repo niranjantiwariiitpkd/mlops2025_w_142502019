@@ -1,12 +1,21 @@
-13a14,24
+===== CODE DIFFERENCE =====
+10a11,20
 > 
-> 
-> 
-> # Calculate factorial of n
+> # Factorial of sum
 > factorial=1
-> for (( i=1; i<=n; i++ ))
+> for (( i=1; i<=sum; i++ ))
 > do
 >   factorial=$((factorial * i))
 > done
+> echo "Factorial of $sum is: $factorial"
 > 
-> echo "Factorial of $n is: $factorial"
+> # Numerical difference
+> difference=$((factorial - sum))
+> 
+> # Write both code diff and numeric difference into output.txt
+
+===== NUMERICAL DIFFERENCE =====
+For n=5:
+Sum = 15
+Factorial(sum) = 1307674368000
+Difference = 1307674367985
