@@ -1,1 +1,2 @@
-Usage instructions will be added later.
+# Calculator
+Simple Calculator to add 2 numbers
