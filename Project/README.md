@@ -1,5 +1,5 @@
 # Members:
-  1. **Uma Mahesh** : 142502018
+  1. **Uma Maheshwar** : 142502018
   2. **Niranjan Tiwari** : 142502019
 
 -------------------------------------
@@ -91,3 +91,4 @@ Future Improvements
     
 
     Collect more diverse training data.
+
