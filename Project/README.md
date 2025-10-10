@@ -1,3 +1,8 @@
+# Members:
+  1. **Uma Mahesh** : 142502018
+  2. **Niranjan Tiwari** : 142502019
+
+-------------------------------------
 # Forest Fire & Smoke Detection
 
 ##  Overview
@@ -84,4 +89,5 @@ Future Improvements
 
     Use a larger pretrained model (e.g., EfficientNet).
     
+
     Collect more diverse training data.
