@@ -1,5 +1,4 @@
-# Members:
-  2. **Niranjan Tiwari** : 142502019
+**Niranjan Tiwari** : 142502019
 
 -------------------------------------
 # Forest Fire & Smoke Detection
@@ -90,5 +89,6 @@ Future Improvements
     
 
     Collect more diverse training data.
+
 
 
